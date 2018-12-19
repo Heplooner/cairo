@@ -1,5 +1,5 @@
 //Simple encryption/decryption utility, based on seeds specified by the user
-//By Ben Rector, written April 7-8, 2017
+//By Katie Rector, written April 7-8, 2017
 
 #include "includes.h"
 
